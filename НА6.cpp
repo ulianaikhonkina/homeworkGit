@@ -92,6 +92,11 @@ void task17() {
 	bool pass = is_suitable(a, b, c, x, y);
 	cout << "Цеглина може пройти у вікно: " << (pass ? "Так" : "Ні") << endl;
 }
+// Завдання 18
+
+int main() {
+	cout << "Hello, World!" << endl;
+}
 
 int main() {
 	//task15();
