@@ -94,8 +94,8 @@ void task17() {
 }
 
 int main() {
-	task15();
-	//task16();
+	//task15();
+	task16();
 	//task17();
 	return 0;
 }
