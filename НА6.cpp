@@ -100,7 +100,7 @@ int main() {
 
 int main() {
 	//task15();
-	//task16();
+	task16();
 	//task17();
 	return 0;
 }
